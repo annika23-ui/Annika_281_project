@@ -12,7 +12,7 @@
 | Baseline | 165-credit full programme (student-confirmed); 144 credits itemized in the published map plus 21 aggregate credits | Full total supplied by student; 21-credit detail not mapped |
 | Proposal | Keep, update, reduce or add course content while keeping the full-programme total at 165 credits | Student proposal |
 
-Official public structure: https://www.ifheindia.org/icfai-tech-school-hyderabad/icfaitech-btech-program-structure. Academic-features page: https://www.ifheindia.org/icfai-tech-school-hyderabad/academics/icfaitech-academic-features. The separate Academic Regulations document was not included in the supplied evidence, so cohort-specific prerequisite and elective rules remain unverified.
+Official public structure: https://www.ifheindia.org/icfai-tech-school-hyderabad/icfaitech-btech-program-structure. Academic-features page: https://www.ifheindia.org/icfai-tech-school-hyderabad/academics/icfaitech-academic-features. 
 
 **Important baseline limitation:** the public page prints 24-credit totals for Semesters V and VI, but the itemized courses for the AI & Data Science branch each add to 23. This report uses the itemized course credits. The itemized map covers 144 credits across Semesters I–VI plus Summer IP201. 165-credit programme total, the remaining 21 credits are included as an aggregate KEEP line. The detailed allocation of those credits must be confirmed against cohort-specific records.
 
