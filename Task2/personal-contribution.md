@@ -9,7 +9,6 @@ The course audit uses the official public IFHE/IcfaiTech B.Tech CSE (Artificial 
 - Add three applied courses: API Design, Integration and Python Automation (3 credits), Generative AI Application Engineering (4 credits), and AI Output Verification and Governance (3 credits).
 - Reduce required-core allocation by 10 credits overall, including moving Computer Vision and Big Data Systems to elective availability and proposing four one-credit reductions. These reductions are low-confidence and require course-outcome mapping and faculty review before adoption.
 - Update the content of Industry Coding Practices, Database Management Systems, Data Wrangling and Visualization, and Deep Learning without changing their credits.
-- Keep the full programme total at 165 credits in the model. The 21-credit remainder is an aggregate KEEP row because its course-level allocation was not supplied; no course names have been invented.
 
 ## Evidence and limitations
 
