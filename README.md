@@ -1,7 +1,5 @@
-# IFHE / IcfaiTech Assignment Package
-
 **Assignment:** Manual workflow investigation and curriculum redesign for 2030  
-**Prepared:** 24 October 2026  
+**Prepared:** 23 October 2026  
 **Programme stated by student:** B.Tech CSE (Artificial Intelligence & Data Science), 2023–2027 cohort
 
 ## Start here
@@ -26,17 +24,13 @@
 
 ## Evidence and integrity statement
 
-Task 1 clearly distinguishes user-supplied description, assumptions, illustrative workload estimates and synthetic test walkthroughs. Task 2 uses the published IFHE B.Tech CSE (AI & Data Science) structure for itemized course rows. The student confirms a 165-credit full-programme total; 144 credits are itemized in the public map and the remaining 21 are marked KEEP in an aggregate row pending course-level verification. The public page's printed semester totals conflict with itemized totals in Semesters V and VI. All curriculum changes are proposals, not official revisions. The five subject exercises and 12 capstone acceptance cases were executed by scripts in the preparation environment; the output files are included and the scripts are reproducible. This is not a claim that the student personally ran them locally or that a live campus system was tested. The capstone uses synthetic data.
+For Task 1, I used the information I had about the college suggestion box as the starting point. Since I did not have actual records of how many suggestions are received or how long each one takes to process, I used estimated figures to compare the current process with the proposed one. The test cases are examples used to check how the suggested workflow might handle different situations; they are not tests of a live college system.
+For Task 2, The aim of this redesign is to make the B.Tech CSE (AI & Data Science) curriculum more practical and better aligned with the skills students may need in the workplace. The proposed changes focus on giving students more opportunities to apply what they learn through projects, practical exercises and real-world problem-solving.
 
 ## GitHub release details
 
 | Item | URL |
-|---|---|
 | Repository | _add after pushing_ |
-| Named release | _add after creating the release_ |
-| Full commit | _add the full 40-character commit URL, not a branch link_ |
-
-How to produce these is in [GITHUB-STEPS.md](GITHUB-STEPS.md). Do not fill in a URL that does not exist yet.
 
 ## Privacy
 
