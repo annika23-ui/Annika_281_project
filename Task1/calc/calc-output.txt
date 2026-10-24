@@ -1,0 +1,13 @@
+slips/month | current | proposed(own tool) | net staff saving (own) | proposed(existing portal) | net staff saving (portal) | student time saved
+         20 |   105.0 |              202.5 |                  -97.5 |                     182.5 |                     -77.5 |               30.0
+         40 |   195.0 |              270.0 |                  -75.0 |                     250.0 |                     -55.0 |               60.0
+         80 |   375.0 |              405.0 |                  -30.0 |                     385.0 |                     -10.0 |              120.0
+        160 |   735.0 |              675.0 |                   60.0 |                     655.0 |                      80.0 |              240.0
+
+Break-even submissions/month (staff time only):
+  New tool: 107
+  Existing portal: 89
+
+Average wait before first review, monthly review (30-day cycle): 15.0 days; maximum 30 days
+Average wait before first review, weekly review (7-day cycle): 3.5 days; maximum 7 days
+Average wait before first review, daily review (1-day cycle): 0.5 days; maximum 1 days

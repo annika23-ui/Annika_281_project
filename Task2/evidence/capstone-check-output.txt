@@ -1,0 +1,23 @@
+id    action         computed          expected          result
+G001  submit         Assigned          Assigned          PASS
+G002  submit         Assigned          Assigned          PASS
+G003  submit         Needs information Needs information PASS
+G004  submit         Duplicate         Duplicate         PASS
+G005  approve        Blocked (logged)  Blocked (logged)  PASS
+G006  submit         Failed-retry      Failed-retry      PASS
+G007  approve        Accepted          Accepted          PASS
+G008  decline        Declined          Declined          PASS
+G009  submit         Needs information Needs information PASS
+G010  submit         Duplicate         Duplicate         PASS
+G011  change_status  Blocked (logged)  Blocked (logged)  PASS
+G012  submit         Assigned          Assigned          PASS
+
+12/12 rows match expected status.
+case coverage - normal                : 3 row(s)
+case coverage - missing information   : 2 row(s)
+case coverage - duplicate             : 2 row(s)
+case coverage - unauthorized request  : 2 row(s)
+case coverage - failed step           : 1 row(s)
+
+Synthetic days to first review: median 5, max 7 (n=9).
+Method demo only. A pilot would replace these with real timestamps from the audit log.

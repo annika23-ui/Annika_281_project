@@ -1,0 +1,13 @@
+suggestion_id,actor_role,requested_action,details_complete,duplicate_of,authorised,step_result,days_to_first_review,expected_status
+G001,anonymous_student,submit,yes,,yes,ok,6,Assigned
+G002,anonymous_student,submit,yes,,yes,ok,3,Assigned
+G003,anonymous_student,submit,no,,yes,ok,5,Needs information
+G004,anonymous_student,submit,yes,G001,yes,ok,6,Duplicate
+G005,anonymous_student,approve,yes,,no,ok,,Blocked (logged)
+G006,anonymous_student,submit,yes,,yes,notification_failed,,Failed-retry
+G007,coordinator,approve,yes,,yes,ok,4,Accepted
+G008,coordinator,decline,yes,,yes,ok,2,Declined
+G009,anonymous_student,submit,no,,yes,ok,7,Needs information
+G010,anonymous_student,submit,yes,G002,yes,ok,3,Duplicate
+G011,anonymous_student,change_status,yes,,no,ok,,Blocked (logged)
+G012,anonymous_student,submit,yes,,yes,ok,5,Assigned

@@ -1,0 +1,53 @@
+run_exercises.py
+Run date/time : 2026-10-24 12:35:28
+Python        : 3.13.5 on Linux-6.18.55-x86_64-with-glibc2.41
+
+======================================================================
+1. DBMS: departments whose DBMS average beats the overall DBMS average
+======================================================================
+Overall DBMS average = 75.00  (CSE 85, ECE 65, MECH 75)
+Query result: ['CSE']
+CHECK PASSED: only CSE is above the overall average.
+
+======================================================================
+2. Algorithms: running time of f(n) = f(n//2) + f(n//2) + n  (f(1)=1)
+======================================================================
+         n      calls       2n-1   calls/n  calls/(n log2 n)
+        16         31         31     1.938            0.4844
+       256        511        511     1.996            0.2495
+      4096       8191       8191     2.000            0.1666
+     65536     131071     131071     2.000            0.1250
+   1048576    2097151    2097151     2.000            0.1000
+calls/n stays at about 2 (constant), while calls/(n log2 n) keeps shrinking.
+Each call does O(1) work (one addition), so T(n) = 2T(n/2) + Theta(1) = Theta(n).
+CHECK PASSED: number of calls is exactly 2n-1, i.e. Theta(n), not Theta(n log n).
+
+======================================================================
+3. Probability: P(disease | positive)
+======================================================================
+true positive  = 0.0190
+false positive = 0.0980
+P(positive)    = 0.1170
+P(disease|+)   = 0.1624  (16.2%)
+Monte-Carlo cross-check (400k people): 0.1625
+CHECK PASSED.
+
+======================================================================
+4. Operating systems: Round Robin, quantum = 2
+======================================================================
+P1 0-2 | P2 2-4 | P3 4-5 | P1 5-7 | P4 7-9 | P2 9-10 | P1 10-11
+Completion: {'P1': 11, 'P2': 10, 'P3': 5, 'P4': 9}
+Waiting   : {'P1': 6, 'P2': 6, 'P3': 2, 'P4': 4}
+Average waiting time = 4.5
+CHECK PASSED.
+
+======================================================================
+5. ML: why accuracy misleads on imbalanced data; leakage demo (pure Python)
+======================================================================
+positives = 217 of 10000
+'Always negative' model: accuracy = 0.978, recall = 0.000
+mean using all rows (leaky) = 0.6081; mean using train only = 0.0081
+The two differ, so fitting preprocessing before the split lets test data influence training.
+CHECK PASSED (conceptual demonstration, no real dataset or model).
+
+ALL FIVE EXERCISES RAN AND PASSED THEIR CHECKS.

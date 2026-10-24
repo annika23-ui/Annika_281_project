@@ -1,0 +1,748 @@
+{
+ "courses": [
+  {
+   "sem": "I",
+   "code": "EG101",
+   "title": "English Language Skills",
+   "L": 2,
+   "T": 0,
+   "P": 2,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": []
+  },
+  {
+   "sem": "I",
+   "code": "ES101",
+   "title": "Engineering Graphics",
+   "L": 1,
+   "T": 0,
+   "P": 4,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": []
+  },
+  {
+   "sem": "I",
+   "code": "BS101",
+   "title": "Chemistry",
+   "L": 2,
+   "T": 1,
+   "P": 2,
+   "C": 4,
+   "status": "KEEP",
+   "newC": 4,
+   "reasons": [
+    "R9"
+   ]
+  },
+  {
+   "sem": "I",
+   "code": "HS101",
+   "title": "Understanding India",
+   "L": 0,
+   "T": 0,
+   "P": 0,
+   "C": 0,
+   "status": "KEEP",
+   "newC": 0,
+   "reasons": [
+    "R9"
+   ]
+  },
+  {
+   "sem": "I",
+   "code": "BS102",
+   "title": "Physics",
+   "L": 2,
+   "T": 1,
+   "P": 2,
+   "C": 4,
+   "status": "KEEP",
+   "newC": 4,
+   "reasons": [
+    "R9"
+   ]
+  },
+  {
+   "sem": "I",
+   "code": "BS103",
+   "title": "Linear Algebra and Ordinary Differential Equations",
+   "L": 2,
+   "T": 1,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R9"
+   ]
+  },
+  {
+   "sem": "I",
+   "code": "ES105",
+   "title": "Computer Programming",
+   "L": 2,
+   "T": 0,
+   "P": 4,
+   "C": 4,
+   "status": "KEEP",
+   "newC": 4,
+   "reasons": [
+    "R5",
+    "R6"
+   ]
+  },
+  {
+   "sem": "II",
+   "code": "EG102",
+   "title": "Professional Communication",
+   "L": 2,
+   "T": 1,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R9"
+   ]
+  },
+  {
+   "sem": "II",
+   "code": "ES102",
+   "title": "Digital Fabrication",
+   "L": 1,
+   "T": 1,
+   "P": 2,
+   "C": 3,
+   "status": "REDUCE",
+   "newC": 2,
+   "reasons": [
+    "R8"
+   ]
+  },
+  {
+   "sem": "II",
+   "code": "ES103",
+   "title": "Environmental Sciences",
+   "L": 2,
+   "T": 0,
+   "P": 0,
+   "C": 2,
+   "status": "KEEP",
+   "newC": 2,
+   "reasons": [
+    "R9"
+   ]
+  },
+  {
+   "sem": "II",
+   "code": "ES104",
+   "title": "Basic Electronics",
+   "L": 2,
+   "T": 1,
+   "P": 2,
+   "C": 4,
+   "status": "KEEP",
+   "newC": 4,
+   "reasons": []
+  },
+  {
+   "sem": "II",
+   "code": "BS104",
+   "title": "Higher Calculus",
+   "L": 2,
+   "T": 1,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R9"
+   ]
+  },
+  {
+   "sem": "II",
+   "code": "ES106",
+   "title": "Data Structures",
+   "L": 2,
+   "T": 0,
+   "P": 4,
+   "C": 4,
+   "status": "KEEP",
+   "newC": 4,
+   "reasons": [
+    "R5",
+    "R6"
+   ]
+  },
+  {
+   "sem": "II",
+   "code": "ES107",
+   "title": "Introduction to DS and AI",
+   "L": 2,
+   "T": 1,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": []
+  },
+  {
+   "sem": "II",
+   "code": "ADD-01",
+   "title": "API Design, Integration and Python Automation (proposed)",
+   "L": 2,
+   "T": 0,
+   "P": 2,
+   "C": 0,
+   "status": "ADD",
+   "newC": 3,
+   "reasons": [
+    "R1",
+    "R5",
+    "R10"
+   ]
+  },
+  {
+   "sem": "III",
+   "code": "MG201",
+   "title": "Engineering Economics and Management",
+   "L": 2,
+   "T": 1,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": []
+  },
+  {
+   "sem": "III",
+   "code": "BS105",
+   "title": "Probability & Statistics",
+   "L": 2,
+   "T": 1,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R9"
+   ]
+  },
+  {
+   "sem": "III",
+   "code": "ES201",
+   "title": "Object Oriented Programming Concepts",
+   "L": 2,
+   "T": 0,
+   "P": 4,
+   "C": 4,
+   "status": "KEEP",
+   "newC": 4,
+   "reasons": [
+    "R5"
+   ]
+  },
+  {
+   "sem": "III",
+   "code": "CR201",
+   "title": "Power Skills - I",
+   "L": 0,
+   "T": 0,
+   "P": 2,
+   "C": 1,
+   "status": "KEEP",
+   "newC": 1,
+   "reasons": [
+    "R9"
+   ]
+  },
+  {
+   "sem": "III",
+   "code": "DS201",
+   "title": "Introduction to IoT",
+   "L": 2,
+   "T": 0,
+   "P": 2,
+   "C": 3,
+   "status": "REDUCE",
+   "newC": 2,
+   "reasons": [
+    "R8"
+   ]
+  },
+  {
+   "sem": "III",
+   "code": "DS202",
+   "title": "Database Management Systems",
+   "L": 2,
+   "T": 1,
+   "P": 2,
+   "C": 4,
+   "status": "UPDATE",
+   "newC": 4,
+   "reasons": [
+    "R1",
+    "R4",
+    "R6"
+   ]
+  },
+  {
+   "sem": "III",
+   "code": "DS203",
+   "title": "Artificial Intelligence",
+   "L": 3,
+   "T": 0,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": []
+  },
+  {
+   "sem": "III",
+   "code": "DS205",
+   "title": "Operating Systems",
+   "L": 3,
+   "T": 0,
+   "P": 2,
+   "C": 4,
+   "status": "KEEP",
+   "newC": 4,
+   "reasons": [
+    "R6"
+   ]
+  },
+  {
+   "sem": "IV",
+   "code": "Not listed",
+   "title": "Digital Humanities Elective (code not specified on page)",
+   "L": 3,
+   "T": 0,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": []
+  },
+  {
+   "sem": "IV",
+   "code": "CR202",
+   "title": "Power Skills - II",
+   "L": 0,
+   "T": 0,
+   "P": 2,
+   "C": 1,
+   "status": "KEEP",
+   "newC": 1,
+   "reasons": [
+    "R9"
+   ]
+  },
+  {
+   "sem": "IV",
+   "code": "ES202",
+   "title": "Industry Coding Practices",
+   "L": 2,
+   "T": 1,
+   "P": 2,
+   "C": 4,
+   "status": "UPDATE",
+   "newC": 4,
+   "reasons": [
+    "R3",
+    "R4"
+   ]
+  },
+  {
+   "sem": "IV",
+   "code": "DS204",
+   "title": "Design and Analysis of Algorithms",
+   "L": 3,
+   "T": 0,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R6"
+   ]
+  },
+  {
+   "sem": "IV",
+   "code": "DS206",
+   "title": "Computer Organization and Architecture",
+   "L": 3,
+   "T": 0,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R6"
+   ]
+  },
+  {
+   "sem": "IV",
+   "code": "DS207",
+   "title": "Discrete Mathematics",
+   "L": 2,
+   "T": 1,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R6"
+   ]
+  },
+  {
+   "sem": "IV",
+   "code": "DS208",
+   "title": "Web Enabled Technologies (Web 3.0)",
+   "L": 2,
+   "T": 1,
+   "P": 2,
+   "C": 4,
+   "status": "KEEP",
+   "newC": 4,
+   "reasons": []
+  },
+  {
+   "sem": "IV",
+   "code": "DS212",
+   "title": "Machine Learning",
+   "L": 3,
+   "T": 0,
+   "P": 2,
+   "C": 4,
+   "status": "REDUCE",
+   "newC": 3,
+   "reasons": [
+    "R8"
+   ]
+  },
+  {
+   "sem": "Summer",
+   "code": "IP201",
+   "title": "Summer Term / Internship Program - 1",
+   "L": 0,
+   "T": 0,
+   "P": 0,
+   "C": 5,
+   "status": "KEEP",
+   "newC": 5,
+   "reasons": []
+  },
+  {
+   "sem": "V",
+   "code": "HS301",
+   "title": "Constitution of India",
+   "L": 0,
+   "T": 0,
+   "P": 0,
+   "C": 0,
+   "status": "KEEP",
+   "newC": 0,
+   "reasons": [
+    "R9"
+   ]
+  },
+  {
+   "sem": "V",
+   "code": "Not listed",
+   "title": "Elective-I (course/code not specified on page)",
+   "L": 3,
+   "T": 0,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R7"
+   ]
+  },
+  {
+   "sem": "V",
+   "code": "CR301",
+   "title": "Power Skills - III",
+   "L": 0,
+   "T": 0,
+   "P": 2,
+   "C": 1,
+   "status": "KEEP",
+   "newC": 1,
+   "reasons": [
+    "R9"
+   ]
+  },
+  {
+   "sem": "V",
+   "code": "DS301",
+   "title": "Metaheuristic Optimization Techniques",
+   "L": 2,
+   "T": 1,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R6"
+   ]
+  },
+  {
+   "sem": "V",
+   "code": "DS302",
+   "title": "Computer Networks",
+   "L": 3,
+   "T": 0,
+   "P": 2,
+   "C": 4,
+   "status": "KEEP",
+   "newC": 4,
+   "reasons": [
+    "R6"
+   ]
+  },
+  {
+   "sem": "V",
+   "code": "DS303",
+   "title": "Blockchain Technology",
+   "L": 3,
+   "T": 0,
+   "P": 0,
+   "C": 3,
+   "status": "REDUCE",
+   "newC": 2,
+   "reasons": [
+    "R8"
+   ]
+  },
+  {
+   "sem": "V",
+   "code": "DS305",
+   "title": "Data Wrangling and Visualization",
+   "L": 2,
+   "T": 0,
+   "P": 2,
+   "C": 3,
+   "status": "UPDATE",
+   "newC": 3,
+   "reasons": [
+    "R3",
+    "R4"
+   ]
+  },
+  {
+   "sem": "V",
+   "code": "DS307",
+   "title": "Computer Vision",
+   "L": 3,
+   "T": 0,
+   "P": 0,
+   "C": 3,
+   "status": "REDUCE",
+   "newC": 0,
+   "reasons": [
+    "R7"
+   ]
+  },
+  {
+   "sem": "V",
+   "code": "PE1",
+   "title": "Professional Elective (PE 1)",
+   "L": 3,
+   "T": 0,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R7"
+   ]
+  },
+  {
+   "sem": "V",
+   "code": "ADD-02",
+   "title": "Generative AI Application Engineering: LLMs, retrieval and agents (proposed)",
+   "L": 3,
+   "T": 0,
+   "P": 2,
+   "C": 0,
+   "status": "ADD",
+   "newC": 4,
+   "reasons": [
+    "R2",
+    "R3"
+   ]
+  },
+  {
+   "sem": "VI",
+   "code": "SP301",
+   "title": "Special Project",
+   "L": 0,
+   "T": 0,
+   "P": 6,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R10"
+   ]
+  },
+  {
+   "sem": "VI",
+   "code": "Not listed",
+   "title": "Elective-II (course/code not specified on page)",
+   "L": 3,
+   "T": 0,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R7"
+   ]
+  },
+  {
+   "sem": "VI",
+   "code": "CR302",
+   "title": "Power Skills - IV",
+   "L": 0,
+   "T": 0,
+   "P": 2,
+   "C": 1,
+   "status": "KEEP",
+   "newC": 1,
+   "reasons": [
+    "R9"
+   ]
+  },
+  {
+   "sem": "VI",
+   "code": "DS308",
+   "title": "Big Data systems",
+   "L": 3,
+   "T": 0,
+   "P": 0,
+   "C": 3,
+   "status": "REDUCE",
+   "newC": 0,
+   "reasons": [
+    "R7"
+   ]
+  },
+  {
+   "sem": "VI",
+   "code": "DS310",
+   "title": "Deep Learning",
+   "L": 2,
+   "T": 1,
+   "P": 2,
+   "C": 4,
+   "status": "UPDATE",
+   "newC": 4,
+   "reasons": [
+    "R3",
+    "R4"
+   ]
+  },
+  {
+   "sem": "VI",
+   "code": "DS312",
+   "title": "Reinforcement Learning",
+   "L": 3,
+   "T": 0,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R2"
+   ]
+  },
+  {
+   "sem": "VI",
+   "code": "DS314",
+   "title": "Fuzzy Logic and Rough Set Theory",
+   "L": 2,
+   "T": 1,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R6"
+   ]
+  },
+  {
+   "sem": "VI",
+   "code": "PE2",
+   "title": "Professional Elective (PE 2)",
+   "L": 3,
+   "T": 0,
+   "P": 0,
+   "C": 3,
+   "status": "KEEP",
+   "newC": 3,
+   "reasons": [
+    "R7"
+   ]
+  },
+  {
+   "sem": "VI",
+   "code": "ADD-03",
+   "title": "AI Output Verification and Governance (proposed)",
+   "L": 2,
+   "T": 1,
+   "P": 0,
+   "C": 0,
+   "status": "ADD",
+   "newC": 3,
+   "reasons": [
+    "R3",
+    "R4"
+   ]
+  },
+  {
+   "sem": "VII\u2013VIII (aggregate)",
+   "code": "UNMAPPED-21",
+   "title": "Remaining programme credits (aggregate; detailed course allocation not mapped)",
+   "L": 0,
+   "T": 0,
+   "P": 0,
+   "C": 21,
+   "status": "KEEP",
+   "newC": 21,
+   "reasons": [
+    "R11"
+   ]
+  }
+ ],
+ "reasons": {
+  "R1": "HCLTech entry-level Generative AI listing is a provisional signal for Python, data processing and applied AI projects -> ADD-01 and UPDATE DS202. Verify the employer page before submission.",
+  "R2": "The small job-description sample suggests value in applied AI, model deployment and data workflows -> ADD-02. This is a proposal signal, not a claim about all 2030 jobs.",
+  "R3": "AI-assisted work should be paired with testing, evaluation, reproducibility and human review -> ADD-03 and UPDATE ES202, DS305 and DS310.",
+  "R4": "Database, data-wrangling and engineering-practice content can include access control, data validation, documentation and reproducible workflows -> UPDATE DS202, ES202, DS305 and DS310.",
+  "R5": "Foundational programming and data structures remain useful prerequisites for API design and automation -> KEEP ES105 and ES106; ADD-01 extends practice rather than replacing foundations.",
+  "R6": "Keep core mathematics, algorithms, operating systems, networks, architecture and data foundations. The small job sample cannot justify removing core fundamentals.",
+  "R7": "DS307 Computer Vision and DS308 Big Data systems are proposed to move from mandatory core to elective availability, not to be declared obsolete. Faculty and student validation is required.",
+  "R8": "Small one-credit reductions to ES102, DS201, DS212 and DS303 are low-confidence proposals. The core learning outcomes must be mapped before any reduction; absence from a few job ads is not proof of low value.",
+  "R9": "Basic sciences, mathematics, communication, Power Skills, Environmental Sciences and credit-free HS101/HS301 are left unchanged. Applicable academic regulations and any UGC/AICTE rules have not been independently checked.",
+  "R10": "SP301 Special Project hosts the Task 1 suggestion-box workflow capstone. Proposed semester totals for the itemized map remain 21/24/24/24/5/23/23; the published page prints 24-credit totals for Semesters V and VI while itemized lines sum to 23 in each.",
+  "R11": "The student confirms a 165-credit full-programme total. The detailed course allocation for the remaining 21 credits is not itemized in this map and is therefore kept unchanged as an aggregate, not assigned invented course codes."
+ },
+ "order": [
+  "I",
+  "II",
+  "III",
+  "IV",
+  "Summer",
+  "V",
+  "VI",
+  "VII\u2013VIII (aggregate)"
+ ]
+}
