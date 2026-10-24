@@ -1,6 +1,6 @@
 # Task 2 — Curriculum audit and redesign for 2030
 
-> **Student proposal, not an official syllabus revision.** This audit uses the published IFHE/IcfaiTech B.Tech CSE (Artificial Intelligence & Data Science) programme structure as its course-map source. The student identifies their cohort as **2023–2027**. The separate cohort-specific Academic Regulations document was not supplied. The full-programme total is 165 credits. The itemized course map accounts for 144 credits; the remaining 21 credits are represented as an aggregate KEEP entry because their detailed course allocation was not supplied.
+> **Student proposal, not an official syllabus revision.** This audit uses the published IFHE/IcfaiTech B.Tech CSE (Artificial Intelligence & Data Science) programme structure as its course-map source. The student identifies their cohort as **2023–2027**. The separate cohort-specific Academic Regulations document was not supplied. The full-programme total is 165 credits. The itemized course map accounts for 144 credits; the remaining 21 credits are represented as an aggregate KEEP entry.
 
 ## 1. Scope, programme and evidence status
 
