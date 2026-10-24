@@ -73,7 +73,6 @@ The least certain changes are the small one-credit reductions and the move of DS
 ## 9. Limitations
 
 - The public page's Semester V and VI itemized credit totals conflict with its printed totals; the report uses itemized values transparently.
-- The public course map itemizes 144 credits; the remaining 21 credits needed to reach the student-confirmed 165-credit total are represented as an aggregate KEEP entry pending verification of their course-level allocation.
 - The job-description sample is small, may include experienced roles, and must be rechecked against employer-owned pages.
-- New courses and all proposed credit changes require faculty review and formal approval; this is not an official syllabus change.
+- New courses and all proposed credit changes require faculty review and formal approval.
 - No faculty/graduate feedback is claimed. 
