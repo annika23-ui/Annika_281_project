@@ -18,7 +18,6 @@
 - [Task 2 capstone proposal](Task2/capstone/capstone-proposal.md) and [capstone addendum](Task2/capstone/capstone-addendum.md)
 - [Synthetic suggestion dataset](Task2/data/synthetic_suggestions.csv) and [acceptance-test output](Task2/evidence/capstone-check-output.txt)
 - [Task 2 interactive credit calculator](Task2/app/index.html)
-- [Personal contribution and AI-use disclosure](personal-contribution.md)
 - [Final review checklist](SUBMISSION-CHECKLIST.md)
 - [GitHub steps](GITHUB-STEPS.md)
 
