@@ -29,7 +29,7 @@ For Task 2, The aim of this redesign is to make the B.Tech CSE (AI & Data Scienc
 ## GitHub release details
 
 | Item | URL |
-| Repository | https://github.com/annika23-ui/Annika_281_project/tree/main |
+| Repository | [https://github.com/annika23-ui/Annika_281_project/tree/main](https://github.com/annika23-ui/Annika_281_project) |
 
 ## Privacy
 
