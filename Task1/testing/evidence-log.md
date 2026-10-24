@@ -25,10 +25,6 @@
 | E10 | 24 Oct 2026 | Verbal permission to proceed with the assignment/observation was given. | USER-REPORTED | User's clarification in this conversation | The name of the person, exact date, and scope of permission were not provided; do not invent them. Confirm any additional permission required before accessing records or the suggestion box. |
 | E11 | 24 Oct 2026 | No timed observation, count of suggestions, or staff interview results have been supplied. | NOT MEASURED / NOT PROVIDED | Current project information | Treat the implementation-delay observation as qualitative; do not present it as a measured result. |
 
-## Permission and fieldwork status
-
-**Permission status: verbal permission was given**, according to the user's clarification. The name/role of the person who gave permission, date, and exact scope were not supplied, so they are not invented here. The campus observation reported is that suggestions can take a long time to implement. This is a qualitative observation; no timing study, suggestion count, or cause analysis has been provided. The detailed process map remains provisional where steps have not been confirmed.
-
 ## Ethics
 
-No names, student IDs, grades, contact details, private messages or identifiable staff details are included. The permission statement above is based on the user's report of verbal permission. The qualitative observation about slow implementation is not a measured delay. All test inputs are synthetic. Do not open the box, read private submissions, or access records unless the verbal permission explicitly covers that activity and the college's rules allow it.
+No names, student IDs, grades, contact details, private messages or identifiable staff details are included. The qualitative observation about slow implementation is not a measured delay. All test inputs are synthetic. Do not open the box, read private submissions, or access records unless the verbal permission explicitly covers that activity and the college's rules allow it.
