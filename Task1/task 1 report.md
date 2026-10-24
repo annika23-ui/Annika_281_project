@@ -43,10 +43,6 @@ The illustrative model uses 20, 40, 80 and 160 submissions per month because the
 4. Measure actual volume, handling time, time to first review, time to assignment, closure time and duplicate rate.
 5. Continue only if the measured benefits justify the extra review and support effort.
 
-## Personal contribution
-
-See `personal-contribution.md`. Replace or add details only if they accurately describe your own work.
-
 ## Limitations
 
 - No live system has been built or connected to college systems.
@@ -96,8 +92,6 @@ For four to six weeks, record only aggregate operational measures:
 - time from submission to first review and assignment;
 - time to resolution or closure;
 - number of overdue items and escalations.
-
-Do not collect student names or IDs for the purpose of this assignment. The tracking-code design should not expose a suggestion to other students.
 
 ---
 
@@ -221,12 +215,6 @@ These are proposed targets, not results already achieved.
 
 ---
 
-## Supporting detail: Fieldwork checklist
-
-# Optional fieldwork checklist
-
-This checklist is for documenting any additional fieldwork needed to strengthen the qualitative observation. Verbal permission has been reported by the user, but its exact scope is not documented here. Confirm the scope before accessing the box, submissions, records or staff-only systems.
-
 ## Before starting
 
 Ask the appropriate staff member for permission. Suggested wording:
@@ -262,21 +250,14 @@ Add a row to `evidence-log.md`. Use **OBSERVED** only for something directly see
 
 ---
 
-## Supporting detail: Task 1 notes
-
-# Task 1 — Improving the college suggestion-box workflow
-
-**Proposed change:** replace the once-a-month physical suggestion-box review with an anonymous online intake and a weekly triage process. Prefer adding a “Student suggestion” category to an existing college feedback portal if the college confirms that it can support anonymous submissions and tracking.
-
 ## Evidence status — read before using this report
 
-This report is complete as an **analysis and design proposal**. The user reports that verbal permission was given and that the campus-level observation is that suggestions can take a long time to implement. The person's name/role, exact date and permission scope were not supplied, so they are not invented. The delay observation is qualitative, not a timed measurement. Therefore:
+This report is complete as an **analysis and design proposal**. The campus-level observation is that suggestions can take a long time to implement. The delay observation is qualitative, not a timed measurement. Therefore:
 - the physical box and monthly review cadence are user-supplied information, not independently verified here;
 - process details beyond that description are labelled assumptions;
 - all time and volume figures are illustrative estimates;
 - all five tests are synthetic paper walkthroughs, not software tests.
 
-Do not present an assumption as a fact. If you obtain permission and conduct a brief observation or interview, update `evidence-log.md` and revise the model inputs before submitting.
 
 ## Files
 
@@ -295,7 +276,7 @@ Do not present an assumption as a fact. If you obtain permission and conduct a b
 
 ## Executive summary
 
-The current process is described as a physical suggestion box in the college building that is checked around once a month. The reported campus observation is that suggestions can take a long time to implement; the actual causes and elapsed times have not been measured. A monthly review cycle would create an estimated average wait of 15 days and a worst-case wait of 30 days before first review, assuming submissions arrive evenly throughout the cycle. A weekly review would reduce those estimates to 3.5 days and 7 days.
+The current process is s a physical suggestion box in the college building that is checked around once a month. The reported campus observation is that suggestions can take a long time to implement; the actual causes and elapsed times have not been measured. A monthly review cycle would create an estimated average wait of 15 days and a worst-case wait of 30 days before first review, assuming submissions arrive evenly throughout the cycle. A weekly review would reduce those estimates to 3.5 days and 7 days.
 
 The proposed workflow gives each submission a random tracking code, a status, a responsible role and a clear escalation route. Urgent safety concerns are routed the same day. A deputy covers absences, and the physical box remains a fallback if the online service fails.
 
@@ -308,10 +289,6 @@ The illustrative model uses 20, 40, 80 and 160 submissions per month because the
 3. Pilot the weekly process for four to six weeks with a named coordinator and deputy.
 4. Measure actual volume, handling time, time to first review, time to assignment, closure time and duplicate rate.
 5. Continue only if the measured benefits justify the extra review and support effort.
-
-## Personal contribution
-
-See `personal-contribution.md`. Replace or add details only if they accurately describe your own work.
 
 ## Limitations
 
