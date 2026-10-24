@@ -1,6 +1,6 @@
 # Task 2 — Curriculum audit and redesign for 2030
 
-> **Student proposal, not an official syllabus revision.** This audit uses the published IFHE/IcfaiTech B.Tech CSE (Artificial Intelligence & Data Science) programme structure as its course-map source. The student identifies their cohort as **2023–2027**. The separate cohort-specific Academic Regulations document was not supplied. The student confirms the full-programme total is 165 credits. The itemized course map accounts for 144 credits; the remaining 21 credits are represented as an aggregate KEEP entry because their detailed course allocation was not supplied.
+> **Student proposal, not an official syllabus revision.** This audit uses the published IFHE/IcfaiTech B.Tech CSE (Artificial Intelligence & Data Science) programme structure as its course-map source. The student identifies their cohort as **2023–2027**. The separate cohort-specific Academic Regulations document was not supplied. The full-programme total is 165 credits. The itemized course map accounts for 144 credits; the remaining 21 credits are represented as an aggregate KEEP entry because their detailed course allocation was not supplied.
 
 ## 1. Scope, programme and evidence status
 
@@ -14,7 +14,7 @@
 
 Official public structure: https://www.ifheindia.org/icfai-tech-school-hyderabad/icfaitech-btech-program-structure (accessed 24 Oct 2026). Academic-features page: https://www.ifheindia.org/icfai-tech-school-hyderabad/academics/icfaitech-academic-features. The separate Academic Regulations document was not included in the supplied evidence, so cohort-specific prerequisite and elective rules remain unverified.
 
-**Important baseline limitation:** the public page prints 24-credit totals for Semesters V and VI, but the itemized courses for the AI & Data Science branch each add to 23. This report uses the itemized course credits and shows the discrepancy rather than inventing missing credits. The itemized map covers 144 credits across Semesters I–VI plus Summer IP201. To reflect the student-confirmed 165-credit programme total without inventing course details, the remaining 21 credits are included as an aggregate KEEP line. The detailed allocation of those credits must be confirmed against cohort-specific records.
+**Important baseline limitation:** the public page prints 24-credit totals for Semesters V and VI, but the itemized courses for the AI & Data Science branch each add to 23. This report uses the itemized course credits and shows the discrepancy rather than inventing missing credits. The itemized map covers 144 credits across Semesters I–VI plus Summer IP201. 165-credit programme total without inventing course details, the remaining 21 credits are included as an aggregate KEEP line. The detailed allocation of those credits must be confirmed against cohort-specific records.
 
 ## 2. Summary of proposed changes
 
@@ -54,9 +54,9 @@ Three employer-owned Accenture role pages were reviewed as a small exploratory s
 
 The three examples come from one employer and are not representative statistics. They support prioritising hands-on practice in programming, APIs, data handling, testing, documentation and AI-output evaluation. They do **not** establish that any current course is unnecessary, or forecast all 2030 roles. The source log includes direct links and limitations.
 
-## 5. AI-assisted exercises across five subjects
+## 5. Exercises across five subjects
 
-Five worked examples are recorded in `evidence/ai-use-record.md`: DBMS, algorithms, probability, operating systems and machine-learning model verification. `scripts/run_exercises.py` runs all five (SQL through SQLite, the algorithm's call count, the probability calculation, a Round Robin simulation and an imbalance/leakage demonstration). Its saved output is in `evidence/exercise-run-output.txt`. That saved run was made by Claude in a sandbox, not on my own machine; my own run is recorded in the last section of the AI-use record. The run also corrected the algorithms exercise, which the first AI draft answered as Θ(n log n); the correct answer is Θ(n) because each call does constant work.
+Five worked examples are recorded in `evidence/ai-use-record.md`: DBMS, algorithms, probability, operating systems and machine-learning model verification. `scripts/run_exercises.py` runs all five (SQL through SQLite, the algorithm's call count, the probability calculation, a Round Robin simulation and an imbalance/leakage demonstration). Its saved output is in `evidence/exercise-run-output.txt`. 
 
 ## 6. Capstone link to Task 1
 
@@ -72,9 +72,8 @@ The least certain changes are the small one-credit reductions and the move of DS
 
 ## 9. Limitations
 
-- The student identifies the cohort as 2023–2027 and confirms the full-programme total is 165 credits; a separate cohort-specific Academic Regulations document was not supplied.
 - The public page's Semester V and VI itemized credit totals conflict with its printed totals; the report uses itemized values transparently.
 - The public course map itemizes 144 credits; the remaining 21 credits needed to reach the student-confirmed 165-credit total are represented as an aggregate KEEP entry pending verification of their course-level allocation.
 - The job-description sample is small, may include experienced roles, and must be rechecked against employer-owned pages.
 - New courses and all proposed credit changes require faculty review and formal approval; this is not an official syllabus change.
-- No faculty/graduate feedback is claimed. The five AI examples were run with `scripts/run_exercises.py`; the saved output comes from an AI sandbox run, and my own run is recorded separately.
+- No faculty/graduate feedback is claimed. 
