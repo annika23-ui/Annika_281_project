@@ -1,6 +1,6 @@
 # Task 2 - Course map by semester
 
-Baseline: **B.Tech CSE (Artificial Intelligence & Data Science), cohort 2023–2027**. The student confirms the full-programme total is **165 credits**. The published IFHE Hyderabad / IcfaiTech programme-structure page is used for the itemized course map (accessed 24 Oct 2026). The itemized rows here cover 144 credits; the remaining 21 credits are shown as an aggregate KEEP line because their detailed course allocation was not supplied. A separate cohort-specific Academic Regulations document was not supplied. Proposed changes are not official curriculum.
+Baseline: **B.Tech CSE (Artificial Intelligence & Data Science), cohort 2023–2027**. The full-programme total is **165 credits**. The published IFHE Hyderabad / IcfaiTech programme-structure page is used for the itemized course map (accessed 24 Oct 2026). The itemized rows here cover 144 credits; the remaining 21 credits are shown as an aggregate KEEP line because their detailed course allocation was not supplied. A separate cohort-specific Academic Regulations document was not supplied. Proposed changes are not official curriculum.
 
 | Sem | Code | Course | L-T-P | Official C | Status | Proposed C | Reasons |
 |---|---|---|---|---|---|---|---|
