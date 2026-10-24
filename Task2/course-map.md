@@ -65,6 +65,6 @@ Baseline: **B.Tech CSE (Artificial Intelligence & Data Science), cohort 2023–2
 | VII–VIII (aggregate) | UNMAPPED-21 | Remaining programme credits (aggregate; detailed course allocation not mapped) | 0-0-0 | 21 | KEEP | 21 | R11 |
 | **VII–VIII (aggregate)** | | *Semester total* | | **21** | | **21** | |
 
-**Full-programme total (student-confirmed): 165 credits baseline; 165 proposed.** The itemized rows above include 144 credits from the public course map plus 21 aggregate credits marked KEEP because their detailed allocation was not supplied.
+**Full-programme total :165 credits baseline** The itemized rows above include 144 credits from the public course map plus 21 aggregate credits marked KEEP because their detailed allocation was not supplied.
 
-The public page has a discrepancy between the printed and itemized totals for Semesters V and VI. This report preserves that discrepancy and does not invent missing course names. The separate cohort-specific Academic Regulations were not supplied.
+The public page has a discrepancy between the printed and itemized totals for Semesters V and VI. The separate cohort-specific Academic Regulations were not supplied.
