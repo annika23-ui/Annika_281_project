@@ -11,7 +11,7 @@
 - [Task 1 test cases](Task1/test-cases.md)
 - [Task 2 course map](Task2/course-map.md)
 - [Task 2 credit calculations](Task2/calculations/credit-calculation.md)
-- [Task 2 AI-use record](Task2/evidence/ai-use-record.md)
+- [Task 2 record](Task2/evidence/record.md)
 - [Employer source log](Task2/evidence/source-log.md)
 - [Task 2 exercise runner](Task2/scripts/run_exercises.py) and [its saved output](Task2/evidence/exercise-run-output.txt)
 - [Task 2 source log](Task2/evidence/source-log.md)
