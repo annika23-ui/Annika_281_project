@@ -33,4 +33,4 @@ For Task 2, The aim of this redesign is to make the B.Tech CSE (AI & Data Scienc
 
 ## Privacy
 
-Used only synthetic request data. Do not include student names, roll numbers, grades, private staff messages, credentials, API keys or other personal data.
+Used only synthetic request data. Have not included student names, roll numbers, grades, private staff messages, credentials, API keys or other personal data.
