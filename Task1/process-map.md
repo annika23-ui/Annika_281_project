@@ -2,7 +2,7 @@
 
 ## Current process
 
-The user-provided description is that students submit suggestions through a physical box and the box is checked about once a month. The exact staff roles and later handling steps have not been independently verified.
+Students submit suggestions through a physical box, which is reportedly checked about once a month. The exact staff roles and the steps followed after the box is checked have not been independently verified, so any further details about the current process are treated as assumptions.
 
 1. Student writes a suggestion on paper.
 2. Student places the slip in the suggestion box.
@@ -26,4 +26,3 @@ The staff owner, review procedure, decision authority and student notification m
 - The suggestion needs approval from another office.
 - No action is taken or the student receives no update.
 
-See `evidence-log.md` for the evidence status and `improved-process.md` for the proposed weekly online workflow.
