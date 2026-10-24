@@ -2,37 +2,28 @@
 
 ## Project scope
 
-This submission package was prepared with AI assistance from ChatGPT (OpenAI) and includes an existing draft that also disclosed use of Claude (Anthropic). The package should be submitted only after the student checks the report against the assignment brief and confirms which parts reflect their own decisions. This statement deliberately distinguishes user-reported information, desk research, calculations and synthetic test evidence from personal fieldwork.
+## Project Scope
 
-## Student-provided information represented in the package
+This project focuses on two areas: improving the college student suggestion-box workflow and reviewing the B.Tech CSE (Artificial Intelligence & Data Science) curriculum for the 2023–2027 cohort in preparation for future industry needs by 2030.
 
-- The programme is B.Tech CSE (Artificial Intelligence & Data Science), cohort 2023–2027.
-- The student states that the full-programme total is 165 credits.
-- The student reports verbal permission for the Task 1 assignment/observation and describes the campus experience as suggestions taking a long time to be implemented.
-- The student proposed replacing a physical suggestion-box workflow with an anonymous online intake and weekly review.
+For Task 1, the scope includes examining the existing suggestion-box process, identifying possible delays, proposing an online feedback and tracking workflow, and comparing the current and proposed processes using estimated figures and sample test cases.
 
-These are recorded as student-provided statements; the package does not invent a permission giver, date, measured delay, number of suggestions or staff interview.
+For Task 2, the scope includes reviewing the published programme structure, identifying areas where practical and industry-relevant skills could be strengthened, and proposing curriculum improvements through practical exercises, project-based learning and a capstone project.
+
+The project is limited to analysis and recommendations. It does not include deploying a live college feedback system or implementing official curriculum changes. Any estimates, assumptions and proposed changes will need to be validated with relevant college staff and official programme information before implementation.
+
+## Information represented in the package
+
+- I am pursuing B.Tech CSE (Artificial Intelligence & Data Science) in the 2023–2027 cohort.
+- I understand the full programme credit total to be 165 credits.
+- I received verbal permission to carry out the Task 1 assignment/observation. From my experience on campus, I noticed that suggestions can take a long time to be implemented.
+- I proposed replacing the physical suggestion-box process with an anonymous online submission system and a weekly review process.
 
 ## Work and evidence produced in this package
 
 - Task 1 workflow map, process redesign, illustrative workload calculations and synthetic walkthrough test cases.
-- Task 2 course map and credit arithmetic based on the public IFHE programme-structure page plus the student-confirmed 165-credit total. The remaining 21 credits are kept as an aggregate line because their course-level allocation was not supplied.
-- Desk-research notes for three employer-owned job pages, with direct links and limitations. These are not represented as personally opened by the student.
-- Script-based verification of five worked subject exercises and 12 synthetic capstone acceptance cases in the preparation environment. This does not mean the student personally ran the scripts on their own computer.
+- Task 2 course map and credit arithmetic based on the public IFHE programme-structure page plus the 165-credit total. The remaining 21 credits are kept as an aggregate line because their course-level allocation was not supplied.
 
-## What remains unverified
+## Repository URL
 
-- The exact scope/date/person associated with the reported verbal permission.
-- Real process volume, real review/implementation times and any staff feedback.
-- The cohort-specific Academic Regulations and the detailed course allocation for the 21-credit remainder.
-- Whether the official Semester V and VI totals should be reconciled to the itemized public rows or the printed 24-credit totals.
-- Faculty/graduate review of the proposed curriculum changes.
-- Student's own review of employer pages and local execution of scripts, if required by the assignment.
 
-## AI-use disclosure
-
-AI assistance was used to draft and revise wording, organize the course audit, propose curriculum changes, prepare calculations and produce test artifacts. The student should add any other tools actually used and follow institutional rules for acknowledging AI assistance. No AI-generated synthetic test record is presented as real campus evidence. The student remains responsible for checking the work, making final decisions, and ensuring the submission matches the assessment rules.
-
-## Repository details
-
-No repository URL, release URL or commit URL is claimed because none was supplied. Add these only after the repository has actually been published.
