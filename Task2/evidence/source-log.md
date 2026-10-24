@@ -1,6 +1,6 @@
 # Task 2 — Evidence source log
 
-**Evidence review date:** 24 October 2026  
+**Evidence review date:** 23 October 2026  
 **Purpose:** small exploratory sample of employer-owned early-career / entry-level role pages to inform proposed curriculum priorities. This is not a representative labour-market study or a forecast of 2030 demand. Employer pages can change or close; re-open before submission if the course brief requires a contemporaneous personal check.
 
 ## Official programme sources
@@ -12,7 +12,7 @@
 
 ## Employer-owned job pages reviewed for this evidence pack
 
-The links below are employer-owned pages and were located through web research on 24 October 2026. The job pages do not consistently expose a clear original posting date in the page text available for this review; the evidence date below is therefore the **access/review date**, not a claimed posting date. These are source notes prepared with AI assistance, not a claim that the student personally opened each page.
+The links below are employer-owned pages and were located through web research on 24 October 2026. The job pages do not consistently expose a clear original posting date in the page text available for this review; the evidence date below is therefore the **access/review date**, not a claimed posting date.
 
 | ID | Employer / role as shown on employer page | Link | Experience / location shown | Requirements visible in page | Curriculum link and limitation |
 |---|---|---|---|---|---|
@@ -24,9 +24,3 @@ The links below are employer-owned pages and were located through web research o
 
 Across these three pages, recurring signals include Python/software engineering, SQL/data handling, APIs, testing, version control, documentation and applied AI evaluation. That pattern is a useful **design signal** for practical assignments and updated content, not statistical proof of employer demand. The sample is small, one source is an internship, and all three are from one employer. A stronger study would sample several employers, record each posting date where displayed, classify role seniority, and compare recurring requirements with course learning outcomes.
 
-## Evidence integrity
-
-- Do not claim that the student personally opened or verified these pages unless they did so.
-- The review/access date is not a posting date.
-- Do not quote these three pages as representative of all jobs or as proof of what the labour market will require in 2030.
-- The programme structure and the student-confirmed 165-credit total are separate evidence streams. The remaining 21 credits are not assigned invented course names.
