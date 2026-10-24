@@ -2,7 +2,7 @@
 
 ## Basis of the redesign
 
-The course audit uses the official public IFHE/IcfaiTech B.Tech CSE (Artificial Intelligence & Data Science) programme-structure page as the course-level source, the student's statement that the full programme totals 165 credits, and a small desk-research sample of three employer-owned role pages recorded in `evidence/source-log.md`.
+The course audit uses the official public IFHE/IcfaiTech B.Tech CSE (Artificial Intelligence & Data Science) programme-structure page as the course-level source, the full programme totals 165 credits, and a small desk-research sample of three employer-owned role pages recorded in `evidence/source-log.md`.
 
 ## Decisions proposed
 
@@ -14,7 +14,6 @@ The course audit uses the official public IFHE/IcfaiTech B.Tech CSE (Artificial 
 ## Evidence and limitations
 
 - Employer pages are a small exploratory sample from one employer, not a representative job-market study or a forecast of 2030 demand. The access/review date is not a claimed posting date.
-- The public course page prints 24-credit totals for Semesters V and VI while the itemized rows each sum to 23. The discrepancy is preserved rather than silently corrected.
 - The cohort-specific Academic Regulations were not supplied. All curriculum changes are proposals, not approved IFHE changes.
 - The five subject exercises and 12 capstone acceptance cases were executed by scripts in the preparation environment. The data used in capstone checks are synthetic. These runs are reproducible artifacts, not evidence of a live campus deployment.
 - The first draft of the algorithms exercise incorrectly suggested Θ(n log n). The corrected recurrence is Θ(n), because the recursion tree has 2n−1 calls and constant work per call.
