@@ -4,13 +4,9 @@
 
 ## Evidence status — read before using this report
 
-This report is complete as an **analysis and design proposal**. The user reports that verbal permission was given and that the campus-level observation is that suggestions can take a long time to implement. The person's name/role, exact date and permission scope were not supplied, so they are not invented. The delay observation is qualitative, not a timed measurement. Therefore:
-- the physical box and monthly review cadence are user-supplied information, not independently verified here;
-- process details beyond that description are labelled assumptions;
-- all time and volume figures are illustrative estimates;
-- all five tests are synthetic paper walkthroughs, not software tests.
+This report presents an analysis of the current suggestion-box process and a proposal for improving it. From my experience on campus, I have noticed that suggestions can take a long time to be implemented. This is a general observation rather than a delay measured over a specific period.
 
-Do not present an assumption as a fact. If you obtain permission and conduct a brief observation or interview, update `evidence-log.md` and revise the model inputs before submitting.
+The details about the physical suggestion box and its monthly review schedule are based on the information available to me and have not been independently verified. Any additional details about how the process works are treated as assumptions. All figures relating to time and submission volume are estimates used to illustrate possible scenarios. The five tests are paper-based walkthroughs using hypothetical examples, not tests of a working software system.
 
 ## Files
 
@@ -29,28 +25,33 @@ Do not present an assumption as a fact. If you obtain permission and conduct a b
 
 ## Executive summary
 
-The current process is described as a physical suggestion box in the college building that is checked around once a month. The reported campus observation is that suggestions can take a long time to implement; the actual causes and elapsed times have not been measured. A monthly review cycle would create an estimated average wait of 15 days and a worst-case wait of 30 days before first review, assuming submissions arrive evenly throughout the cycle. A weekly review would reduce those estimates to 3.5 days and 7 days.
+The current process uses a physical suggestion box in the college building, which is reportedly checked about once a month. From my experience on campus, suggestions can take a long time to be implemented, although the actual reasons for the delays and how long they take have not been measured.
 
-The proposed workflow gives each submission a random tracking code, a status, a responsible role and a clear escalation route. Urgent safety concerns are routed the same day. A deputy covers absences, and the physical box remains a fallback if the online service fails.
+With a monthly review, a suggestion could wait an average of 15 days and up to 30 days before its first review. If suggestions were reviewed weekly instead, the estimated wait would drop to an average of 3.5 days, with a maximum of 7 days. These figures assume that suggestions come in evenly throughout each review cycle.
 
-The illustrative model uses 20, 40, 80 and 160 submissions per month because the real volume is unknown. At 40 submissions/month, the assumptions produce 195 staff minutes/month for the current process, 270 minutes for a new tool, and 250 minutes for adding the process to an existing portal. In other words, the proposal does **not** save staff time at this volume under the current assumptions. Its clearest benefits are faster review, status visibility, duplicate counting and a feedback loop. Reusing an existing portal is the more proportionate option if it can meet privacy and tracking requirements.
+In the proposed system, each submission would receive a random tracking code so students could follow its status. A responsible staff role would be assigned to each suggestion, with a clear process for escalating issues. Urgent safety concerns would be passed on the same day, and a deputy would handle reviews when the main person was absent. The physical suggestion box would also remain available as a backup if the online service stopped working.
+
+Since the actual number of suggestions received each month is unknown, the calculations use example volumes of 20, 40, 80 and 160 submissions. At 40 submissions per month, the model estimates 195 staff minutes for the current process, compared with 270 minutes for a new online tool and 250 minutes for adding the process to an existing college portal. Based on these assumptions, the proposed system would not reduce staff time at this volume.
+
+Its main advantages would instead be quicker reviews, better visibility of submission status, easier identification of duplicate suggestions and a clearer way to provide feedback. Using the existing college portal would likely be the more practical option, provided it can meet the necessary privacy and tracking requirements.
 
 ## Recommendation
 
-1. Confirm the actual process and permission status before claiming fieldwork.
-2. Ask the college whether the existing anonymous feedback portal can safely support student suggestions and tracking.
-3. Pilot the weekly process for four to six weeks with a named coordinator and deputy.
-4. Measure actual volume, handling time, time to first review, time to assignment, closure time and duplicate rate.
-5. Continue only if the measured benefits justify the extra review and support effort.
+1. First, confirm how the current suggestion-box process actually works and make sure the permission for the observation is clear.
 
-## Personal contribution
+2. Check with the college to see whether the existing student portal can be used for anonymous suggestions and status tracking while keeping student information private.
 
-See `personal-contribution.md`. Replace or add details only if they accurately describe your own work.
+3. Try the proposed weekly review process for four to six weeks, with a designated coordinator and a deputy to cover absences.
+
+4. Keep track of the number of suggestions received, the time spent handling them, how long they take to be reviewed and assigned, how long they take to resolve, and how often duplicate suggestions are submitted.
+
+5. After the trial, review the results and decide whether the improvements are worth the extra time and effort required to manage the process.
 
 ## Limitations
 
-- No live system has been built or connected to college systems.
-- Verbal permission is reported by the user; the permission giver and exact scope are not recorded. The campus observation about slow implementation is qualitative, not a measured time study. No staff interview results are claimed.
-- The volume and handling-time inputs are assumptions.
-- The tests are design walkthroughs, not executed software tests.
-- Anonymous tracking requires careful configuration; a form alone does not guarantee anonymity.
+- No working system has been built or connected to the college's existing systems.
+- My observation that suggestions can take a long time to be implemented is based on experience rather than a measured study.
+- The submission numbers and handling times used in the calculations are estimates, as actual figures are not available.
+- The tests are walkthroughs of how the proposed process should work, using hypothetical examples. They are not tests of a working software system.
+- The proposed anonymous tracking process would need to be set up carefully. Simply using an online form does not guarantee that submissions are anonymous.
+
