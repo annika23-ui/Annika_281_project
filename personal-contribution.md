@@ -1,8 +1,6 @@
-# Personal contribution and AI-use disclosure
+# Personal contribution 
 
 ## Project scope
-
-## Project Scope
 
 This project focuses on two areas: improving the college student suggestion-box workflow and reviewing the B.Tech CSE (Artificial Intelligence & Data Science) curriculum for the 2023–2027 cohort in preparation for future industry needs by 2030.
 
@@ -25,5 +23,5 @@ The project is limited to analysis and recommendations. It does not include depl
 - Task 2 course map and credit arithmetic based on the public IFHE programme-structure page plus the 165-credit total. The remaining 21 credits are kept as an aggregate line because their course-level allocation was not supplied.
 
 ## Repository URL
-
+https://github.com/annika23-ui/Annika_281_project/tree/main
 
