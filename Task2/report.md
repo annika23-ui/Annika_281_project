@@ -25,7 +25,7 @@ Official public structure: https://www.ifheindia.org/icfai-tech-school-hyderabad
 | UPDATE | ES202 Industry Coding Practices (4); DS202 Database Management Systems (4); DS305 Data Wrangling and Visualization (3); DS310 Deep Learning (4) | 15 course credits with revised content |
 | KEEP | All remaining courses and foundations, including the 21-credit aggregate remainder pending detailed mapping | 131 unchanged credits plus 9 retained credits in reduced courses, as detailed in the calculator |
 
-The additions total 10 credits and the reductions total 10 credits, so the full-programme total remains **165 credits**. Counting every credit in an updated course as affected gives 35/165 = **21.2%**, within the assignment's approximate 20–25% target. Counting only structural additions and reductions gives 20/165 = **12.1%**; both figures are reported to avoid overstating the size of structural change. The percentage uses the student-confirmed 165-credit denominator; the course-level allocation of the remaining 21 credits is not mapped here.
+The additions total 10 credits and the reductions total 10 credits, so the full-programme total remains **165 credits**. Counting every credit in an updated course as affected gives 35/165 = **21.2%**, within the assignment's approximate 20–25% target. Counting only structural additions and reductions gives 20/165 = **12.1%**; both figures are reported to avoid overstating the size of structural change.
 
 Proposed totals for the itemized rows: I 21, II 24, III 24, IV 24, Summer 5, V 23, VI 23, plus 21 aggregate credits held unchanged. These are a design proposal, not approved course loads.
 
