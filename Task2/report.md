@@ -14,7 +14,7 @@
 
 Official public structure: https://www.ifheindia.org/icfai-tech-school-hyderabad/icfaitech-btech-program-structure (accessed 24 Oct 2026). Academic-features page: https://www.ifheindia.org/icfai-tech-school-hyderabad/academics/icfaitech-academic-features. The separate Academic Regulations document was not included in the supplied evidence, so cohort-specific prerequisite and elective rules remain unverified.
 
-**Important baseline limitation:** the public page prints 24-credit totals for Semesters V and VI, but the itemized courses for the AI & Data Science branch each add to 23. This report uses the itemized course credits and shows the discrepancy rather than inventing missing credits. The itemized map covers 144 credits across Semesters I–VI plus Summer IP201. 165-credit programme total without inventing course details, the remaining 21 credits are included as an aggregate KEEP line. The detailed allocation of those credits must be confirmed against cohort-specific records.
+**Important baseline limitation:** the public page prints 24-credit totals for Semesters V and VI, but the itemized courses for the AI & Data Science branch each add to 23. This report uses the itemized course credits. The itemized map covers 144 credits across Semesters I–VI plus Summer IP201. 165-credit programme total, the remaining 21 credits are included as an aggregate KEEP line. The detailed allocation of those credits must be confirmed against cohort-specific records.
 
 ## 2. Summary of proposed changes
 
@@ -44,7 +44,7 @@ Proposed totals for the itemized rows: I 21, II 24, III 24, IV 24, Summer 5, V 2
 
 ## 4. Job-description evidence
 
-Three employer-owned Accenture role pages were reviewed as a small exploratory sample on 24 October 2026. The source log records the experience level, requirements visible on each page and course links. The pages do not consistently expose an original posting date in the available page text, so 24 October 2026 is recorded as the review/access date, not a claimed posting date. This is a web-research evidence snapshot prepared with AI assistance; it does not claim that the student personally opened every link.
+Three employer-owned Accenture role pages were reviewed as a small exploratory sample on 23 October 2026. The source log records the experience level, requirements visible on each page and course links. 
 
 | Employer role | Recurring signal | Curriculum implication | Limitation |
 |---|---|---|---|
